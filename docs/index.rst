@@ -1,3 +1,5 @@
+Release 1.2
+
 Buzzvil Privacy Policy
 Buzzvil Co., Ltd. (Hereinafter referred to as “the Company”) takes personal information of users very seriously. This Privacy Policy details the main privacy policies that apply to data that the Company collects through Buzzvil’s advertising network business (“Service”).
 
