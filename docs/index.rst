@@ -166,3 +166,12 @@ Mail: 3rd Floor, Daelim Building, 272 Seokchon Lake, Songpa-gu, Seoul, Korea
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
 Application date: May 25th, 2018
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+
+   privacy policy.rst
+   termsofservice.rst
