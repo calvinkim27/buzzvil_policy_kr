@@ -5,14 +5,17 @@ Buzzvil offers users the best and innovative experience through the mobile locks
 
 Privacy Principles
 ------------------
+
 **We use information for our users to access convenient and useful services.**
 
 Buzzvil pursues users to experience a safe and convenient mobile journey through the lock screen. We use the information on condition that the users agree to do and can safely secure their privacy. Buzzvil never sells or illegally provides user’s information to anyone.
 
 
+
 **We aim to be transparent about the information and to communicate with users.**
 
 Buzzvil is transparently disclosing how the information is used and managed. Our Privacy Policy describes each item in detail. If you have any questions about privacy protection, please contact us at support@buzzvil.com. Buzzvil will actively respond to user requests for personal information at any time.
+
 
 
 **We strictly manage personal data throughout the product development process for privacy protection.**
