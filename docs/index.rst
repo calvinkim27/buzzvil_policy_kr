@@ -11,5 +11,6 @@ Buzzvil Privacy Center
 .. toctree::
    :maxdepth: 2
 
-   privacy policy.rst
-   termsofservice.rst
+   privacy_policy.rst
+   terms_of_service.rst
+   our_approach_to_privacy.rst
