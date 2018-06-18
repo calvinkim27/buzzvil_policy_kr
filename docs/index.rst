@@ -3,7 +3,7 @@ Buzzvil Privacy Center
 ======================
 
 .. image:: logo_600x400.png
-    :width: 120px
+    :width: 600px
     :alt: Buzzvil logo
     :align: center
 
