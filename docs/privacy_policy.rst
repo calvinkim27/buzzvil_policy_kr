@@ -11,9 +11,12 @@ This Policy will be effective on the 25th day of May, 2018 and, in case of modif
  
 
 1. About Buzzvil services
+-------------------------
 Buzzvil offers online advertising network services. We provide personalized ads to mobile users of our partnered publishers on mobile apps or websites for our advertisers.
 
+
 2. Data collection and collection methods
+-----------------------------------------
 The Company does not collect or store personal information that may directly identify a specific individual, such as name, contact, email, date of birth, or health status.
 
 The Company automatically collects the following anonymous data in the process of using the Service to achieve the purposes of Article 3.
@@ -24,7 +27,9 @@ The Company automatically collects the following anonymous data in the process o
 
 – User information provided by partner companies such as User ID.
 
+
 3. Purpose of data collection
+-----------------------------
 The Company uses the collected data for the following purposes:
 
 ① Member management, identification and delivering service: We use the IP address assigned to your device to send you requested such as your point information. We use unique identifiers of your device to help us authenticate you as the person who should have access to your Buzzvil Account
@@ -53,14 +58,20 @@ The Company uses the collected data for the following purposes:
 
 The Company agrees that it will obtain consent from the users if the Company desires to use the information other than those expressly stated in this Policy.
 
+
 4. Cookie, Beacons and Similar Technologies
+-------------------------------------------
+
 The Company may collect collective and impersonal information through ‘cookies’ or ‘web beacons’.
 
 Cookies are very small text files to be sent to the browser of the users by the server used for an operation of the websites of the Company and will be stored in hard-disks of the users’ computer. A web beacon is a small quantity of code which exists on the websites and e-mails.
 
 By using web beacons, we may know whether a user has interacted with certain webs or the contents of an email. These functions are used for evaluating, improving services and setting-up users’ experiences so that much-improved services can be provided by the Company to the users.
 
+
 5. Your Privacy Controls
+------------------------
+
 European Economic Area, the United Kingdom, and Switzerland
 
 If you are located in the European Economic Area, the United Kingdom, or Switzerland, publishers who would like us to serve you personalized ads must first obtain your consent so that Buzzvil and our partners can process your personal data for this purpose. If you provide your consent, we will collect, use, share, and otherwise process all of the personal data described above for the purpose of serving you personalized advertising that Buzzvil and our partners believe is most relevant to you.
@@ -83,7 +94,10 @@ On iOS, you may opt out by enabling the “Limit Ad Tracking” setting.
 
 On Android devices, you may opt out by enabling the “Opt out of Ads Personalization” setting.
 
+
 6. Sharing your information
+---------------------------
+
 We work with Publisher Partners, Advertising Demand Partners, Supported Advertising Mediation Partners, Data Partners, and Fraud and Measurement Partners (collectively, “Buzzvil Partners”) in order to provide the Buzzvil Services. Unless otherwise noted in our partner list, Buzzvil Partners are each independent controllers of your data. We will provide the current list of Buzzvil Partners with whom we share your data upon request.
 
 In principle, the Company will not share user information to third parties without prior consent. However, we may share data to provide service and comply for the following cases.
@@ -96,7 +110,10 @@ In principle, the Company will not share user information to third parties witho
 
 – Other cases where the user gives prior consent for sharing his or her personal information
 
+
 7. Data security and storage
+----------------------------
+
 The Company takes the security of customer information very seriously. The Company maintains data security through industry-standard security measures, including firewalls and encryption, and keeps data for a period that meets the following requirements:
 
 – To complete the customer support service provided
@@ -121,10 +138,16 @@ The company constructs the following security measures to protect the users’ p
 
 – Take measures to prevent forging or alteration of access record
 
+
 8. Global operation and Privacy Shield
+--------------------------------------
+
 We base our services on AWS solutions, which has already obtained approval from EU data protection authorities, known as the Article 29 Working Party, of the AWS Data Processing Addendum and Model Clauses to enable transfer of data outside Europe, including to the U.S.
 
+
 9. Users’ right to access
+-------------------------
+
 The users or their legal representatives, as main agents of the information, may exercise the following options regarding the collection, use and sharing of personal information by the Company:
 
 – Exercise right to access to personal information
@@ -139,24 +162,39 @@ If, in order to exercise the above options, you, as an user, contact the Company
 
 If you are located in the European Economic Area, the United Kingdom, or Switzerland, and withdraw your consent, we will also inform our current partners with whom we have shared the data of your withdrawal or opt-out so that they, as independent controllers of your personal data, can also respect your choice. Our partners may also have separate legal bases for collecting, using, retaining, and sharing your personal data.
 
+
 10. Protection of personal information of children
+--------------------------------------------------
+
 In principle, the Company does not collect any information from the children under 13 or equivalent minimum age as prescribed in the laws in the relevant jurisdiction. The website, products, and services of the Company are the ones to be provided to ordinary people, in principle. The Company does not intentionally collect any personal information from children.
 If you are located in the European Economic Area, the United Kingdom, or Switzerland, you must be at least 16 years of age to consent to personalized advertising experience. We do not collect or otherwise process personal data from individuals in the European Economic Area, the United Kingdom, and Switzerland whom it knows to be under 16 years of age, except for compliance with a legal obligation and pursuit of a legitimate interest.
 
 We do not knowingly collect, maintain, or use Personal Information from children under 16 years of age, and no part of the Service is directed to children under the age of 16. If you learn that your child has provided us with personal information without your consent, then you may alert us at dpo@buzzvil.com. If we learn that we have collected any Personal Information from children under 16, then we will promptly take steps to delete such information.
 
+
 11. Data Protection Officer
+---------------------------
+
 To communicate with our Data Protection Officer, please email dpo@buzzvil.com.
 
+
 12. Changes to Privacy Policy
+------------------------------
+
 The Company may change its Policy for a variety of reasons, such as improving your personal information processing procedures, reflecting changes to company services, or complying with applicable laws. If the Company changes its Policy, we will notify you using the Service or any other reasonable means.
 
+
 13. Other important information
+-------------------------------
+
 ① Data transmission: Considering it engages in global businesses, the Company may provide the users’ personal information to the companies located in other countries for the purpose as expressly stated in this Policy. For the places where the personal information is transmitted, retained or processed, the Company takes reasonable measures for protecting that personal information.
 
 ② 3rd party’s sites and services: The website, product or service of the Company may include the links to the ones of a 3rd party and the privacy protection policy of the site of the 3rd party may be different. Thus, it is required for the users to check additionally that policy of a 3rd party site linked to the site of the Company.
 
+
 14. Responsible department of Company
+-------------------------------------
+
 The Company designates the following department and person in charge of personal information in order to protect the personal information of customers and deal with complaints from customers:
 
 E-mail: support@buzzvil.com
@@ -165,4 +203,5 @@ Mail: 3rd Floor, Daelim Building, 272 Seokchon Lake, Songpa-gu, Seoul, Korea
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
-Application date: May 25th, 2018
+
+**Application date: May 25th, 2018**
