@@ -54,7 +54,7 @@ def get_git_branch():
 
 # -- Project information -----------------------------------------------------
 
-project = u'Read the Docs Sphinx Theme Examples'
+project = u'Buzzvil Policy'
 copyright = u'2018, Read the Docs, Inc & contributors'
 author = u'Read the Docs, Inc & contributors'
 
