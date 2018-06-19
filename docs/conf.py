@@ -55,8 +55,8 @@ def get_git_branch():
 # -- Project information -----------------------------------------------------
 
 project = u'Buzzvil Policy'
-copyright = u'2018, Read the Docs, Inc & contributors'
-author = u'Read the Docs, Inc & contributors'
+copyright = u'© 2018 Buzzvil. All Rights Reserved.'
+author = u'Buzzvil'
 
 # The short X.Y version
 version = u''
