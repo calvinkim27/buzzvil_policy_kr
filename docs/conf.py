@@ -110,7 +110,7 @@ pygments_style = 'sphinx'
 default_html_theme = 'sphinx_rtd_theme'
 branch_to_theme_mapping = {
     # 3rd party themes
-    'master': default_html_theme,
+    'master': bizstyle,
 
     # Sphinx built-in themes
     'alabaster': 'alabaster',
