@@ -148,9 +148,9 @@ html_logo = 'logo_600x400.png'
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {
-    'index': ['github-banner.html', 'sidebar-header.html', 'localtoc.html', 'translations.html', 'sidebar-footer.html', 'searchbox.html'],
-    '**'   : ['github-banner.html', 'localtoc.html', 'translations.html', 'relations.html']
-}
+    #'index': ['github-banner.html', 'sidebar-header.html', 'localtoc.html', 'translations.html', 'sidebar-footer.html', 'searchbox.html'],
+    #'**'   : ['github-banner.html', 'localtoc.html', 'translations.html', 'relations.html']
+#}
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
 #html_additional_pages = {}
