@@ -1,6 +1,6 @@
 
-Buzzvil Privacy Center
-======================
+버즈빌 정책 센터
+============
 
 .. image:: logo_600x400.png
     :width: 600px
