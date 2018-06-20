@@ -1,40 +1,44 @@
-Our Approach to Privacy
-=======================
+개인정보보호 원칙 및 접근법
+=====================
 
-Buzzvil offers users the best and innovative experience through the mobile lockscreen which is the first impression. At the same time, we do our best to protect user’s privacy so that they can trust our services. Buzzvil establishes basic principles to store, process and dispose of personal data in an appropriate and legitimate way, and explains how to use the data when using the service.
-
-Privacy Principles
-------------------
-
-**We use information for our users to access convenient and useful services.**
-
-Buzzvil pursues users to experience a safe and convenient mobile journey through the lock screen. We use the information on condition that the users agree to do and can safely secure their privacy. Buzzvil never sells or illegally provides user’s information to anyone.
+버즈빌은 사용자에게 모바일 첫 화면인 잠금화면을 통해 최적의 혁신적인 경험을 제공합니다. 동시에 사용자가 서비스를 이용하는 것에 충분히 신뢰할 수 있도록 사용자의 개인정보 보호를 위해 최선을 다하고 있습니다. 버즈빌은 개인정보 데이터를 정당하고 적절히 보관, 처리, 폐기하기 위하여 기본적인 원칙을 세우고 누구나 서비스 이용시의 데이터 사용 내용을 쉽고 투명하게 설명하고 있습니다.    
 
 
+개인정보보호 원칙
+-------------
 
-**We aim to be transparent about the information and to communicate with users.**
+**사용자의 편리하고 유용한 서비스 이용을 위해 정보를 사용합니다.**
 
-Buzzvil is transparently disclosing how the information is used and managed. Our Privacy Policy describes each item in detail. If you have any questions about privacy protection, please contact us at support@buzzvil.com. Buzzvil will actively respond to user requests for personal information at any time.
+버즈빌은 사용자들이 잠금화면을 통해 안전하면서도 편리한 모바일 여정을 경험을 하도록 추구합니다. 사용자들이 동의하는 범위 내에서 안전하고 보안을 강화하는 방향으로 정보를 사용합니다. 버즈빌은 사용자 정보를 그 누구에게도 판매하거나 불법으로 제공하지 않습니다.  
 
 
+**개인정보 데이터는 언제든지 투명하게 공개되고 사용자와 소통하고자 노력합니다.**
 
-**We strictly manage personal data throughout the product development process for privacy protection.**
+버즈빌은 사용자의 정보가 어떻게 사용되고 관리되는지를 투명하게 공개하고 있습니다. 개인정보보호방침에서는 이를 각 항목별로 자세하게 설명하고 있습니다. 기타 개인정보 보호에 관해 문의사항이 있으시면 고객센터(support@buzzvil.com)로 연락주시면 친절하게 답변드리도록 하겠습니다. 버즈빌은 언제든지 개인정보에 관한 유저들의 요청에 적극적으로 대응할 것입니다.
 
-From the development stage, every team members of Buzzvil keeps privacy in mind. We are also concerned about the security of our users by designating a DPO that oversees everything related to personal data. We comply with privacy laws, and additionally work with regulators and related partners.
+
+**개인정보 보호를 위해 제품 사이클 전반에 걸쳐 데이터를 엄격하게 관리합니다.**
+
+버즈빌은 개발 단계에서부터 각 팀이 개인정보를 보호할 수 있는 원칙 하에 서비스를 만들어 갑니다. 또한 데이터와 관련된 모든 것을 감독하고 총괄하는 DPO를 지정하여 서비스 사용의 안전 및 보안에 신경을 쓰고 있습니다. 우리는 개인정보 보호법을 준수하며 규제당국 및 관련 파트너와도 긴밀히 협업하고 있습니다.
+
 
  
-Advertising
------------
-We check the ad creatives on a regular basis to prevent inappropriate or fraudulent ads from appearing on the user's first mobile screen. We also do our best to avoid unnecessary and irrelevant advertising to show. Therefore, we use some of your information in order to ensure that the appropriate ads are delivered to users in a timely manner. For example, For example, if you're interested in gaming and you watch game contents a lot, you might see ads related to it. But if an ad isn’t relevant to you or you don’t think it belongs on the lockscreen, you can always report the ad by tapping ⋮ to block it.
-
-Advertisers can use usage information through cookies or mobile advertising identifiers, device information and location data for ad targeting. However, now that this information is anonymized, no one can identify a specific user through it. Also, no advertiser is able to collect sensitive information such as religion, sexual orientation, or health to serve ads.
+광고
+---
+우리는 사용자의 모바일 첫 화면에 부적절하거나 사기성 광고가 제공되지 않도록 수시로 소재를 필터링하고 사용성을 점검합니다. 또한 불필요하고 관련없는 광고가 반복적으로 제공되지 않도록 최선을 다하고 있습니다. 따라서 우리는 사용자에게 적합한 광고를 적시에 게재하기 위해, 귀하 정보의 일부를 사용합니다. 예를 들어, 게임에 관심이 많고 게임관련 콘텐츠를 자주 이용하신다면 이와 관련된 광고가 주로 보여질 수 있습니다. 그러나 현재 보이는 광고가 관련성이 없거나 잠금화면에 적합하지 않다고 생각되면 '⋮' 메뉴를 통해 신고하여 차단하실 수 있습니다.
 
 
-Reward
-------
-If you participate in the ads shown on the lock screen (click, install, like, etc.), you will receive points equal to the agreed amount in rewards. Using the information to identify users, we track the activities to avoid abuse and pay without missing points. So this information may be partially available to third-party advertisers' sites and apps. In addition, Buzzvil is committed to detecting and preventing fraudulent ad manipulations. If you participated in the ad but have not received the reward, please let us know through "Help & Feedback" within the apps and you'll be able to get more detailed instructions.
+광고주는 쿠키나 모바일 광고식별자를 통해 사용정보를 활용하거나 기기 및 위치정보를 활용하여 광고 타겟을 설정할 수 있습니다. 그러나 이러한 정보는 익명화 처리되므로 누구도 이를 통해 특정 사용자를 확인할 수는 없습니다. 또한 어떤 광고주도 종교, 성적지향, 건강 정보 등 민감한 정보를 수집하여 광고를 제공할 수 없습니다.
 
 
-Content
--------
-Buzzvil's lockscreen technology helps you get the latest news and exciting content faster than anyone else. To provide a personalized content experience, we try to curate and display content that might be of interest to our users based on the information you give. For example, if you frequently see football-related content, you may see more stories about football or the World Cup. And if you follow or hide a channel, the content on that channel will be shown first or excluded.
+
+리워드
+-----
+잠금화면에서 보여지는 광고에 대한 참여(클릭, 인스톨, 좋아요 등) 한 경우 리워드로 합의된 액수만큼의 포인트를 지급합니다. 오용을 방지하고 포인트를 누락되지 않고 지급하기 위해 사용자를 식별하고 행동을 트래킹할 수 있는 사용자의 정보를 활용합니다. 따라서 그 정보는 제3자 광고주의 사이트 및 앱에 부분적으로 제공될 수 있습니다. 또한 버즈빌은 사기성 광고 조작을 탐지하고 예방하기 위해 끊임없는 노력을 다하고 있습니다. 광고 리워드 미적립 등 오류에 관한 내용은 앱 내의 ‘문의하기’를 통해 알려주시면 자세한 안내를 받으실 수 있습니다.  
+
+
+
+콘텐츠
+-----
+버즈빌의 잠금화면 기술은 사용자가 최신 소식과 흥미로운 콘텐츠를 누구보다 빠르게 즐길 수 있도록 도와줍니다. 맞춤화된 콘텐츠 경험을 제공하기 위해 사용자가 제공한 정보를 기반으로 사용자가 관심을 가질만한 콘텐츠를 큐레이션하여 표시하고자 노력합니다. 예를 들어, 축구 관련 콘텐츠를 자주 보는 경우 축구나 월드컵 관련 기사가 더 많이 표시됩니다. 또한 특정 채널을 팔로우하거나 숨길 경우 해당 채널의 콘텐츠가 우선적으로 제공되거나 제외됩니다.    
+
