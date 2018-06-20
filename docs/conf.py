@@ -260,15 +260,15 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 #intersphinx_mapping = {
-    'nltk': ('http://nltk.org', None),
-    'python': ('http://docs.python.org/', None),
-}
+    #'nltk': ('http://nltk.org', None),
+    #'python': ('http://docs.python.org/', None),
+#}
 
 #extlinks = {
-    'commit': ('https://github.com/konlpy/konlpy/commit/%s', ''),
-    'committer': ('https://github.com/%s', ''),
-    'issue': ('https://github.com/konlpy/konlpy/issues/%s', '#'),
-}
+    #'commit': ('https://github.com/konlpy/konlpy/commit/%s', ''),
+    #'committer': ('https://github.com/%s', ''),
+    #'issue': ('https://github.com/konlpy/konlpy/issues/%s', '#'),
+#}
 
 # i18n
 locale_dirs = ['locale']
