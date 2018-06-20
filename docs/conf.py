@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# KoNLPy documentation build configuration file, created by
-# sphinx-quickstart on Fri Aug 15 19:24:58 2014.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -52,14 +50,14 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'KoNLPy'
-url = u'http://konlpy.org'
+project = u'버즈빌 정책'
+url = u'http://www.buzzvil.com'
 
-author = u'Lucy Park'
-author_url = u'http://lucypark.kr'
+author = u'buzzvil'
+author_url = u'http://www.buzzvil.com'
 
-curyear = datetime.today().year
-copyright = u'2014-%s, %s (GPL license)' % (curyear, project)
+#curyear = datetime.today().year
+copyright = u'© 2018 Buzzvil. All Rights Reserved.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -182,7 +180,7 @@ html_logo = 'logo_600x400.png'
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'KoNLPydoc'
+htmlhelp_basename = '버즈빌 정책'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -208,7 +206,7 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = 'logo_600x400.png'
+#latex_logo = 'logo_600x400.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
@@ -261,12 +259,12 @@ texinfo_documents = [
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {
+#intersphinx_mapping = {
     'nltk': ('http://nltk.org', None),
     'python': ('http://docs.python.org/', None),
 }
 
-extlinks = {
+#extlinks = {
     'commit': ('https://github.com/konlpy/konlpy/commit/%s', ''),
     'committer': ('https://github.com/%s', ''),
     'issue': ('https://github.com/konlpy/konlpy/issues/%s', '#'),
