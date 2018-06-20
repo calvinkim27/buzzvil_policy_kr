@@ -11,6 +11,6 @@ Buzzvil Privacy Center
 .. toctree::
    :maxdepth: 2
 
-   개인정보처리방침.rst
-   이용약관.rst
-   개인정보 원칙 및 접근법.rst
+   privacy_policy.rst
+   terms_of_service.rst
+   our_approach_to_privacy.rst
